@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Author
 **R. Shrinivass**  
-MSc Data Science Student | Aspiring Data Scientist  
+Aspiring Data Scientist  
 
 ---
 
